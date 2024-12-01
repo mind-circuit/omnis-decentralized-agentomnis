@@ -1,0 +1,6 @@
+openai
+requests
+numpy
+pandas
+scikit-learn
+web3
